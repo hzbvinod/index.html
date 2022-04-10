@@ -1,1 +1,59 @@
-# index.html
+<!DOCTYPE.html>
+<html>
+    <head>
+<meta charset="utf=8">
+<title> VINOD SELF DETAILS</title>
+</head>
+<body>
+           <table border="8">
+        <tr>
+            <td><img src="C:\Users\Vinod\Desktop\Stack Devlopment\Image\00.jpeg" alt= "vinod picture" width="200" height="275"> </td>
+            <td><h1><p style="color:blue">Mr. Vinod Sharma</p></h1>
+                <p><em>Founder and Director of <strong> <p style="color:green">GAYANDEEP PUBLIC SCHOOL</p> </strong></em></p>
+                <P>I am a Web Devloper. I love coffee and brew (Tea) .</P></td>
+        </tr>
+    </table>
+          <hr>
+          <a href="image1.html" >If You want to see more image then click Here.</a>
+       <h2>Book and Teaching</h2>
+       <ul>
+           <li>The complete HTML Codeing</li>
+           <li>The complete Web Development</li>
+           <li>The complete fundamental software </li>
+     <hr>
+              <h4> Work Exprience</h4>
+       <table border="5">
+       <thead>
+           <tr>
+               <td> <strong>Date</strong></td>
+               <td> <strong>Work </strong> </td>
+           </tr>
+       </thead>
+        <tr>
+            <td>2007-2010</td>
+            <td>Computer Teacher</td>
+                      </tr>
+           <td>2010-2013</td>
+           <td>Computer Opretor. RDSD Hazaribag</td>
+                     </table>
+          <hr>
+       <h3><em><strong>BUSSINESS</strong></em></h3>
+    <table border="10">
+        <thead>
+            <tr>
+                <td>Webpage Devlopment</td>
+                <td>*****</td>
+                <td>Printing</td>
+                <td>*****</td>
+            </tr>
+            <td>Advertisement Publication on the web</td>
+            <td>****</td>
+            <td>Software Creation</td>
+            <td>****</td>
+        </thead>
+    </table>
+    <hr>
+    <a href="contact.html" >My Contact</a>
+   <p><a href="MY HOBBIES.html" >My Hobbies</a></p>
+</BODY>
+</html>.
